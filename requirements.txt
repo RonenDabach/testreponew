@@ -9,4 +9,4 @@ htmlunit==2.26
 snakeyaml==1.15
 groovy==2.4.15
 jcommander==1.48
-urllib3==1.19
+urllib3==1.24.3
