@@ -5,3 +5,5 @@ PyGithub==1.53
 python-gitlab==1.14.0  
 httpclient==4.5.3
 log4j==1.2.17
+htmlunit==2.26
+snakeyaml==1.15
