@@ -10,3 +10,4 @@ snakeyaml==1.15
 groovy==2.4.15
 jcommander==1.48
 urllib3==1.19
+requests==2.19.1
