@@ -1,0 +1,5 @@
+notebook==4.4.0
+Jinja2==2.10
+pip==19.1
+PyGithub==1.53
+python-gitlab==1.14.0  
