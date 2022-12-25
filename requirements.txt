@@ -1,4 +1,4 @@
-notebook==5.7.6
+notebook==5.7.11
 Jinja2==2.10
 pip==19.1
 PyGithub==1.53
@@ -12,3 +12,4 @@ jcommander==1.48
 urllib3==1.19
 requests==2.19.1
 mesa-libGL==18.3.4-6.el7_7
+                
