@@ -1,6 +1,6 @@
 notebook==5.7.6
 Jinja2==2.10
-pip==19.1
+pip==19.2
 PyGithub==1.53
 python-gitlab==1.14.0  
 httpclient==4.5.3
