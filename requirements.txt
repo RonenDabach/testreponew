@@ -1,5 +1,5 @@
 notebook==5.7.6
-Jinja2==2.10
+Jinja2==2.11.3
 pip==19.1
 PyGithub==1.53
 python-gitlab==1.14.0  
